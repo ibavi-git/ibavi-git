@@ -2,7 +2,7 @@
 
 **Computer Science & Business Systems | Java Full Stack Developer | Problem Solver**
 
-Welcome to my GitHub! I'm a second-year CS student passionate about building scalable applications and exploring cutting-edge technologies. I focus on full-stack development with **Spring Boot**, **React**, and **PostgreSQL**, while continuously expanding my skillset across AI, cloud deployment, and software architecture.
+Welcome to my GitHub! I'm a third-year CSBS student passionate about building scalable applications and exploring cutting-edge technologies. I focus on full-stack development with **Spring Boot**, **React**, and **PostgreSQL**, while continuously expanding my skillset across AI, cloud deployment, and software architecture.
 
 ---
 
