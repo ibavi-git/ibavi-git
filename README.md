@@ -13,6 +13,15 @@ An AI-powered project management SaaS built with Spring Boot (backend) and React
 - **Tech Stack:** Spring Boot, React 19, Vite, Tailwind CSS, PostgreSQL, Grok API
 - **Repository:** [taskflow-ai](https://github.com/ibavi-git/taskflow-ai)
 
+### **HireFlow**
+A role-based recruitment platform enabling seamless hiring workflows. Supports three authenticated user experiences with dynamic dashboard rendering based on user roles.
+- **Tech Stack:** React, TypeScript, Express, MongoDB
+- **Features:**
+  - **Candidate:** Browse jobs, apply with resume, track application progress
+  - **HR:** Create job postings, review applications, monitor interviews
+  - **Admin:** View platform-wide jobs, users, applications, and analytics
+- **Repository:** [hire-flow](https://github.com/ibavi-git/hire-flow)
+
 ### **EcoTrack**
 A comprehensive e-waste collection and redistribution platform built with TypeScript. Connects users to responsible e-waste disposal channels while facilitating the redistribution of refurbished electronics.
 - **Tech Stack:** TypeScript, Modern Web Technologies
