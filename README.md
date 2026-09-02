@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ibavi-git">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bavitha+S+%F0%9F%91%8B;Full-Stack+Developer;AI%2FML+Enthusiast;Building+with+Spring+Boot+%2B+React+%2B+Gemini;I+code+with+whatever+it+takes." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bavitha+S;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Spring+Boot+%7C+React+%7C+Gemini+API" alt="Typing SVG" />
   </a>
 </p>
 
@@ -85,5 +85,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibavi-git/ibavi-git/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </p>
-
-<p align="center"><em>I code with whatever it takes.</em></p>
