@@ -1,88 +1,89 @@
-# Hi there! 👋 I'm Bavitha
+<p align="center">
+  <a href="https://github.com/ibavi-git">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bavitha+S+%F0%9F%91%8B;Full-Stack+Developer;AI%2FML+Enthusiast;Building+with+Spring+Boot+%2B+React+%2B+Gemini;I+code+with+whatever+it+takes." alt="Typing SVG" />
+  </a>
+</p>
 
-**Computer Science & Business Systems | Java Full Stack Developer | Problem Solver**
+<p align="center">
+  <em>"Sometimes it is the people no one imagines anything of, who do the things that no one can imagine."</em><br/>
+  — Alan Turing
+</p>
 
-Welcome to my GitHub! I'm a third-year CSBS student passionate about building scalable applications and exploring cutting-edge technologies. I focus on full-stack development with **Spring Boot**, **React**, and **PostgreSQL**, while continuously expanding my skillset across AI, cloud deployment, and software architecture.
+<br/>
 
----
+### 🚀 About Me
 
-## 🚀 What I'm Working On
+- 🎓 B.Tech in Computer Science & Business Systems (CSBS) @ Dr. NGP Institute of Technology, Coimbatore — Class of 2028
+- 🧠 Focused on **full-stack development + AI/ML integration**
+- 🏆 Actively building for hackathons — from crop-disease detection to crime intelligence platforms
+- 🛠️ Currently deep in Spring Boot, React, and wiring Gemini/Claude APIs into real products
+- 📫 Reach me at **sbavitha2007@gmail.com**
 
-### **TaskFlow AI** 
-An AI-powered project management SaaS built with Spring Boot (backend) and React/Vite (frontend). Integrates the Grok API for intelligent task management and Google Calendar sync for seamless scheduling.
-- **Tech Stack:** Spring Boot, React 19, Vite, Tailwind CSS, PostgreSQL, Grok API
-- **Repository:** [taskflow-ai](https://github.com/ibavi-git/taskflow-ai)
+<br/>
 
-### **HireFlow**
-A role-based recruitment platform enabling seamless hiring workflows. Supports three authenticated user experiences with dynamic dashboard rendering based on user roles.
-- **Tech Stack:** React, TypeScript, Express, MongoDB
-- **Features:**
-  - **Candidate:** Browse jobs, apply with resume, track application progress
-  - **HR:** Create job postings, review applications, monitor interviews
-  - **Admin:** View platform-wide jobs, users, applications, and analytics
-- **Repository:** [hire-flow](https://github.com/ibavi-git/hire-flow)
+### 🧩 Featured Projects
 
-### **EcoTrack**
-A comprehensive e-waste collection and redistribution platform built with TypeScript. Connects users to responsible e-waste disposal channels while facilitating the redistribution of refurbished electronics.
-- **Tech Stack:** TypeScript, Modern Web Technologies
-- **Repository:** [ecotrack](https://github.com/ibavi-git/ecotrack)
-- **Focus:** Sustainability, Environmental Impact, Community Engagement
+| Project | What it does |
+|---|---|
+| **[TaskFlow AI](https://github.com/ibavi-git)** | Kanban platform (Spring Boot + React + PostgreSQL) with 7 Gemini-powered features — sprint planning, deadline estimation, project health scoring |
+| **StadiumMindAi** | Gemini 2.5 Flash + RAG co-pilot for FIFA World Cup 2026 stadium volunteers — FastAPI backend on Render, React/Vite on Vercel |
+| **MachineSense (PredictX)** | Predictive maintenance for tool & die MSMEs using ADXL345 sensors + Raspberry Pi, Isolation Forest anomaly detection |
+| **AI Traffic Monitoring** | Explainable smart-city traffic system — YOLOv8-nano + Grad-CAM, CPU-only inference |
+| **FarmGuard** | Offline-first crop disease detector with vernacular voice output, built in a 36-hour hackathon |
+| **KSP Crime Intelligence Platform** | Full-stack crime analytics platform for the Karnataka State Police Datathon 2026 |
 
-### **Coffee Order System**
-A full-stack Spring Boot + React ordering application deployed on Render with Docker containerization.
-- **Repository:** [coffee-order](https://github.com/ibavi-git/coffee-order)
+<br/>
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
-**Backend:**
-- Java, Spring Boot, Spring Data JPA, Spring Security
-- RESTful APIs, Microservices Architecture
+<br/>
 
-**Frontend:**
-- React 19, TypeScript, Vite
-- Tailwind CSS, shadcn/ui, Component-driven development
+### 📊 GitHub Stats
 
-**Database & Infrastructure:**
-- PostgreSQL, SQL optimization
-- Docker, Git, GitHub, Render
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibavi-git&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibavi-git&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-**Tools & Skills:**
-- System Design, UML Diagrams, Requirements Analysis
-- Agile methodologies, Technical documentation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibavi-git&theme=radical&hide_border=true"/>
+</p>
 
----
+<br/>
 
-## 📚 Learning & Interests
+### 🌱 Currently
 
-- **Full Stack Development:** Building production-ready applications end-to-end
-- **System Architecture:** Designing scalable, maintainable software systems
-- **AI/ML:** Exploring generative AI, image processing, and LLM integrations
-- **Tech Blogging:** Creating content about coding, tools, and development practices
-- **Community:** Active in NGP i Tech's placement/tech cell, mentoring peers on hackathon strategies and project development
+- Sharpening backend architecture fundamentals (JVM internals, OS concepts, system design)
+- Prepping for campus placements while shipping hackathon projects
+- Exploring RAG + LangChain patterns for smarter AI features
 
----
+<br/>
 
-## 💬 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/bavitha-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-I'm always excited to collaborate on interesting projects, discuss software design, or help others learn full-stack development.
+### 🐍 Contribution Snake
 
-- **Email:** sbavitha2007@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/bavitha-s
-- **Location:** Tamil Nadu, India
-- **Interests:** Full Stack Development, AI Integration, Open Source, Hackathons
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibavi-git/ibavi-git/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
 
----
-
-## 🎯 Current Focus (2026-2027)
-
-- Building portfolio-worthy full-stack projects for internship/placement season
-- Contributing to open-source projects
-- Writing technical blog posts on Java and web development
-
----
-
-> "Solving problems through code, one commit at a time" 🚀
-
-*Last updated: July 2026*
+<p align="center"><em>I code with whatever it takes.</em></p>
