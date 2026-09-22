@@ -53,19 +53,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibavi-git&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibavi-git&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibavi-git&theme=radical&hide_border=true"/>
-</p>
-
-<br/>
-
 ### 🌱 Currently
 
 - Sharpening backend architecture fundamentals (JVM internals, OS concepts, system design)
